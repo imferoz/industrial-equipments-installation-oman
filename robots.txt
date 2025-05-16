@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /$
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Crawl-delay: 5
+
+Sitemap: https://industrial-equipment-installation-oman.alwejhagroup.com/sitemap.xml
